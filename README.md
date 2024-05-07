@@ -1,2 +1,2 @@
 # DigitalLibrary
-A Simple SpringBoot Service to manage Digital Library.
+A Simple SpringBoot Application to manage Digital Library.
